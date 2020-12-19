@@ -1,11 +1,10 @@
 # An Empirical Evaluation of RDF Graph Partitioning Methods
 
 ### Benchmark Datasets and Queries
-We provide the datasets and queries of the benchmarmks and real-world datasets used in our evaluation. The datasets are also provided as portable virtuoso triplestores which can be started from bin/start_virtuoso.sh.
-
+We provide the datasets and queries of the benchmarmks and real-world datasets used in our evaluation.
 
 ### Benchmark Datasets and Queries
-We provide the datasets and queries of the benchmarmks and real-world datasets used in our evaluation. The datasets are also provided as portable virtuoso triplestores which can be started from bin/start_virtuoso.sh.
+We provide the datasets and queries of the benchmarmks and real-world datasets used in our evaluation.
 
 
 #### Datasets 
